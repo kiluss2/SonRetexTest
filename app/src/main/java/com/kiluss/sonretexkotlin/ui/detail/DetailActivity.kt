@@ -2,7 +2,7 @@ package com.kiluss.sonretexkotlin.ui.detail
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.kiluss.data.model.Movie
+import com.kiluss.sonretexkotlin.data.model.Movie
 import com.kiluss.sonretexkotlin.constant.EXTRA_MOVIE_DETAIL
 import com.kiluss.sonretexkotlin.databinding.ActivityDetailBinding
 import com.kiluss.sonretexkotlin.utils.Utils

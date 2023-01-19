@@ -1,7 +1,7 @@
 package com.kiluss.sonretexkotlin.utils
 
 import androidx.recyclerview.widget.DiffUtil
-import com.kiluss.data.model.Movie
+import com.kiluss.sonretexkotlin.data.model.Movie
 
 class MovieDiff(
     private var newList: MutableList<Movie>, private var oldList: MutableList<Movie>

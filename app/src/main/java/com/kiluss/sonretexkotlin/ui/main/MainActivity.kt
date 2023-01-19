@@ -6,7 +6,7 @@ import android.view.View
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.kiluss.data.model.Movie
+import com.kiluss.sonretexkotlin.data.model.Movie
 import com.kiluss.sonretexkotlin.constant.EXTRA_MOVIE_DETAIL
 import com.kiluss.sonretexkotlin.databinding.ActivityMainBinding
 import com.kiluss.sonretexkotlin.ui.detail.DetailActivity

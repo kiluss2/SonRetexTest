@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
-import com.kiluss.data.model.Movie
+import com.kiluss.sonretexkotlin.data.model.Movie
 import com.kiluss.sonretexkotlin.databinding.ItemMoviePreviewBinding
 import com.kiluss.sonretexkotlin.utils.MovieDiff
 import com.kiluss.sonretexkotlin.utils.Utils

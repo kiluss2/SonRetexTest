@@ -1,4 +1,4 @@
-package com.kiluss.data.model
+package com.kiluss.sonretexkotlin.data.model
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

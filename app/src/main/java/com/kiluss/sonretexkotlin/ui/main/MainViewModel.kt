@@ -15,7 +15,7 @@ import com.kiluss.sonretexkotlin.extention.toList
 import com.kiluss.sonretexkotlin.network.api.ApiService
 import com.kiluss.sonretexkotlin.network.api.RetrofitClient
 import com.kiluss.sonretexkotlin.ui.base.BaseViewModel
-import com.kiluss.data.model.Movie
+import com.kiluss.sonretexkotlin.data.model.Movie
 import com.kiluss.sonretexkotlin.utils.Utils
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
